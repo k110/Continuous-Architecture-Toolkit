@@ -1,0 +1,17 @@
+[[caf-overview]]
+= Continuous Architecture Framework Overview
+//xref:caf-overview[overview]
+
+xxx
+
+== Dual Business-IT approach
+
+yyy
+
+[[fig-dual-business-it]]
+.Dual Business/IT approach
+image::images/dual-business-it.png[fig-dual-business-IT,800,align="center"]
+
+== Navigating the framework
+
+zzz
