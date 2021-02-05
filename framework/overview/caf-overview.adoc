@@ -1,6 +1,7 @@
 [[caf-overview]]
 = Continuous Architecture Framework Overview
 //xref:caf-overview[overview]
+:sectnums:
 
 xxx
 
