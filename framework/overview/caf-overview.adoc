@@ -1,20 +1,42 @@
 [[caf-overview]]
-= Continuous Architecture Framework Overview
+= Continuous Architecture Framework: an overview
 //xref:caf-overview[overview]
+
+// Settings:
+:icons: 
+:idprefix:
+:idseparator: -
+:preface-title: 
+:numbered!:
+:sectlinks:
+:sectanchors:
+:stylesdir: ./css
+:scriptsdir: ./js
+:imagesdir: ./img
 :sectnums:
 
-xxx
+_Attribution: Frédéric Lé <fle@agileddd.com> and Jean-Pierre Le Cam <jean-pierre.le-cam@wanadoo.fr>_
 
-== Dual Business-Technology Transformation
+The Continuous Architecture Framework is for enterprises wishing to architect their enterprise for digital. Business leaders have long taken responsibility for creating new business models and new operating models. Too often technology is casted as an after-thought, an enabler which is not seen as a source of innovation. We argue that in a digital world, business leaders can no longer delegate technology decisions. 
 
-yyy
+The old fashioned way of aligning business and IT tends to neglect the transformative potential of digital technologies. Even if it does, the waterfall nature of such business/technology interlock does not take into account the need to continuously adapt to an evolving ecosystem characterized by new competition and changing customer expectations.
+
+The figure <<fig-dual-business-technology>> advocates a continuous business/technology change journey that is led by leaders who deeply understand their business and how technology can help:
+
+* Deliver a superior experience to clients and employees, and 
+* Provide a sustainable competitive advantage
+
 
 [[fig-dual-business-technology]]
 .Dual Business/Technology Transformation
-image::img/dual-business-technology.png[fig-dual-business-technology,500,500, align="center"]
+image::dual-business-technology.png[fig-dual-business-technology,400,400, align="center"]
 
-bbbedf
+bbb
 
-== Navigating the framework
+== WHat is the structure of the framework?
+
+vvv
+
+== How to use the framework?
 
 zzz
