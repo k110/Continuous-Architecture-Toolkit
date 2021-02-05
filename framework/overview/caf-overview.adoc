@@ -33,7 +33,7 @@ image::dual-business-technology.png[fig-dual-business-technology,400,400, align=
 
 bbb
 
-== WHat is the structure of the framework?
+== What is the structure of the framework?
 
 vvv
 
