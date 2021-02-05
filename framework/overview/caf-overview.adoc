@@ -21,7 +21,7 @@ The Continuous Architecture Framework is for enterprises wishing to architect th
 
 The old fashioned way of aligning business and IT tends to neglect the transformative potential of digital technologies. Even if it does, the waterfall nature of such business/technology interlock does not take into account the need to continuously adapt to an evolving ecosystem characterized by new competition and changing customer expectations.
 
-The figure <<fig-dual-business-technology>> advocates a continuous business/technology change journey that is led by leaders who deeply understand their business and how technology can help:
+The figure <<fig-dual-business-technology>> advocates a continuous business/technology change journey that is led by leaders who deeply understand their business and the transformative power of digital technologies:
 
 * Deliver a superior experience to clients and employees, and 
 * Provide a sustainable competitive advantage
