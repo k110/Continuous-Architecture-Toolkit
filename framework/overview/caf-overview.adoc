@@ -13,7 +13,7 @@ yyy
 .Dual Business/Technology Transformation
 image::img/dual-business-technology.png[fig-dual-business-technology,500,500, align="center"]
 
-bbb
+bbbedf
 
 == Navigating the framework
 
