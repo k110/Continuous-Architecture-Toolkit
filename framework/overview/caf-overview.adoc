@@ -8,9 +8,11 @@ xxx
 
 yyy
 
-[[fig-dual-business-it]]
-.Dual Business/IT approach
-image::dual-business-it.png[fig-dual-business-it,800,align="center"]
+[[fig-dual-business-technology]]
+.Dual Business/Technology Transformation
+image::img/dual-business-technology.png[fig-dual-business-technology,500,500, align="center"]
+
+bbb
 
 == Navigating the framework
 
