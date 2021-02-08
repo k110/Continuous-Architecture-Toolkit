@@ -12,7 +12,7 @@
 :sectanchors:
 :stylesdir: ./css
 :scriptsdir: ./js
-:imagesdir: ./img
+//:imagesdir: ./img
 :sectnums:
 
 
@@ -29,7 +29,7 @@ The figure <<fig-dual-business-technology>> advocates a continuous business/tech
 
 [[fig-dual-business-technology]]
 .Dual Business/Technology Transformation
-image::dual-business-technology.png[fig-dual-business-technology,200,200, align="left"]
+image::img/dual-business-technology.png[fig-dual-business-technology,200,200, align="left"]
 
 bbb
 
