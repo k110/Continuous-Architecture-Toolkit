@@ -22,5 +22,5 @@ include::caf-overview.adoc[]
 
 This chapter covers the Continuous Architecture rituals.
 
-include::rituals/caf-overview.adoc[]
+include::rituals/architectureKata.adoc[]
 
