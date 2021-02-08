@@ -2,7 +2,7 @@
 
 // Settings:
 :sectnums:
-//:imagesdir: ./img
+:imagesdir: ./img
 :doctype: book
 // :toc: preamble
 :reproducible:

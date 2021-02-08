@@ -1,14 +1,29 @@
 [[architecture-kata]]
 === Architecture Kata
-_By Olivier Jauze <olivier.jauze@michelin.com> and Nicolas Chevalier <nicolas.chevalier@gluendo.com>._
+//xref:architecture-kata[architecture-kata]
+
+//Settings:
+:icons: font
+:idprefix:
+:idseparator: -
+:preface-title: 
+:numbered!:
+:sectlinks:
+:sectanchors:
+:stylesdir: ./css
+:scriptsdir: ./js
+:imagesdir: ./rituals/img
+:sectnums:
+
+
+_By Olivier Jauze <olivier.jauze@michelin.com> and Nicolas Chevalier <nicolas.chevalier@gluendo.com>_
 
 ==== Can we help architects to practice?
-:icons: font
-//:imagesdir: ./img
+
 
 Unless you're practicing architecture every day, we often spend our time on very different activites as depicted on the below charts.
 
-image::img/architects_do.jpg[]
+image::architects_do.jpg[]
 (courtesy from https://www.innoq.com/en/staff/stefan-tilkov/[Stefan Tilkov]). 
 
 So if you find yourself in this situation, we have a ritual that was created to help you: it's the architecture kata and we want to give credits to https://archkatas.herokuapp.com[Ted Neward] who formalized it several years ago.
@@ -46,4 +61,5 @@ icon:thumbs-down[2x] : You thought they missed a few things, enough to make you 
 
 The below visual recaps how an architecture kata is conducted:
 
-image::img/Continuous-architecture Rituals Generic - Architecture Kata - 2020.2.png[]
+image::generic-architecture-kata.png[]
+

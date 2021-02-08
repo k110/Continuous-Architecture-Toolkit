@@ -12,11 +12,11 @@
 :sectanchors:
 :stylesdir: ./css
 :scriptsdir: ./js
-//:imagesdir: ./img
+:imagesdir: ./img
 :sectnums:
 
 
-_By Frédéric Lé <fle@agileddd.com> and Jean-Pierre Le Cam <jean-pierre.le-cam@wanadoo.fr>._
+_By Frédéric Lé <fle@agileddd.com> and Jean-Pierre Le Cam <jean-pierre.le-cam@wanadoo.fr>_
 
 The Continuous Architecture Framework is for enterprises wishing to architect their enterprise for digital. Business leaders have long taken responsibility for creating new business models and new operating models. Too often technology is casted as an after-thought, an enabler which is not seen as a source of innovation. We argue that in a digital world, business leaders can no longer delegate technology decisions. 
 
@@ -29,7 +29,7 @@ The figure <<fig-dual-business-technology>> advocates a continuous business/tech
 
 [[fig-dual-business-technology]]
 .Dual Business/Technology Transformation
-image::img/dual-business-technology.png[fig-dual-business-technology,200,200, align="left"]
+image::dual-business-technology.png[fig-dual-business-technology,200,200, align="left"]
 
 bbb
 
