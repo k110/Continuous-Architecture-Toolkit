@@ -1,5 +1,6 @@
 [[architecture-kata]]
 === Architecture Kata
+_By Olivier Jauze <olivier.jauze@michelin.com> and Nicolas Chevalier <nicolas.chevalier@gluendo.com>._
 
 ==== Can we help architects to practice?
 :icons: font
