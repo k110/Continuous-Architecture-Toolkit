@@ -24,3 +24,9 @@ This chapter covers the Continuous Architecture rituals.
 
 include::rituals/architectureKata.adoc[]
 
+== Practices
+
+This chapter covers the Continuous Architecture rituals.
+
+include::practices/architectureDecisionRecords.adoc[]
+
