@@ -10,18 +10,17 @@
 :numbered!:
 :sectlinks:
 :sectanchors:
-:stylesdir: ./css
-:scriptsdir: ./js
+//:stylesdir: ./css
+//:scriptsdir: ./js
 :imagesdir: ./rituals/img
 :sectnums:
 
-
-_By Olivier Jauze <olivier.jauze@michelin.com> and Nicolas Chevalier <nicolas.chevalier@gluendo.com>_
+[.text-left]_By Olivier Jauze <olivier.jauze@michelin.com> and Nicolas Chevalier <nicolas.chevalier@gluendo.com>_
 
 ==== Can we help architects to practice?
 
 
-Unless you're practicing architecture every day, we often spend our time on very different activites as depicted on the below charts.
+Unless you're practicing architecture every day, we often spend our time on very different activities as depicted on the below charts.
 
 image::architects_do.jpg[]
 (courtesy from https://www.innoq.com/en/staff/stefan-tilkov/[Stefan Tilkov]). 
