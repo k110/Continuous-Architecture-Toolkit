@@ -1,6 +1,6 @@
-[[caf-overview]]
-== Continuous Architecture Framework Overview
-//xref:caf-overview[overview]
+[[overview]]
+== Overview
+//xref:overview[overview]
 
 //Settings:
 :icons: 
