@@ -14,19 +14,15 @@
 This work is licensed under Apache-2.0 and Creative Commons Attribution-ShareAlike 4.0.
 :toc: preamble
 
-
-
 include::caf-overview.adoc[]
+include::navigating-caf.adoc[]
 
 == Rituals
-
-This chapter covers the Continuous Architecture rituals.
 
 include::rituals/architectureKata.adoc[]
 
 == Practices
 
-This chapter covers the Continuous Architecture rituals.
-
 include::practices/architectureDecisionRecords.adoc[]
 
+//end

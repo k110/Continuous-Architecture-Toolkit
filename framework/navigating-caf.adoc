@@ -1,0 +1,87 @@
+[[navigating-caf]]
+== Navigating the Continuous Architecture Framework
+//xref:overview[overview]
+
+//Settings:
+:icons: 
+:idprefix:
+:idseparator: -
+:preface-title: 
+:numbered!:
+:sectlinks:
+:sectanchors:
+:stylesdir: ./css
+:scriptsdir: ./js
+:imagesdir: ./img
+:sectnums:
+
+_By Frédéric Lé <fle@agileddd.com> and Jean-Pierre Le Cam <jean-pierre.le-cam@wanadoo.fr>_
+
+The <<tbl-navigator>> table contains hyperlinks to chapters and sections of the Continuous Architecture Framework.
+
+:xrefstyle: basic
+[[tbl-navigator]]
+[cols="4"]
+.Navigator
+|===
+
+<|
+<|*Business Unit*
+<|*Value Area*
+<|*Product Family*
+
+.<|*Agile Strategy*
+.<|•	<<a>> +
+.<|•	<<b>> +
+.<|•	<<c>>
+
+.<|*Experience*
+.<|•	<<a>> +
+.<|•	<<b>> +
+.<|•	<<c>>
+
+.<|*Product*
+.<|•	<<a>> +
+.<|•	<<b>> +
+.<|•	<<c>>
+
+.<|*Operations*
+.<|•	<<a1>> + 
+• <<a2>> +
+.<|•	<<b>> +
+.<|•	<<c>>
+
+.<|*Software*
+.<|•	<<a>> +
+.<|•	<<b>> +
+.<|•	<<c>>
+
+.<|*Platform*
+.<|•	<<a>> +
+.<|•	<<b>> +
+.<|•	<<c>>
+
+.<|*Organization*
+.<|•	<<a>> +
+.<|•	<<b>> +
+.<|•	<<c>>
+
+.<|*Roadmap*
+.<|•	<<a>> +
+.<|•	<<b>> +
+.<|•	<<c>>
+
+4+<.|*Cross-Cutting Concerns:* +
+•	<<data-architecture>> +
+•	<<security>> +
+•	
+
+4+<.|*Rituals:* +
+•	<<architecture-kata>> +
+•	
+
+4+<.|*Practices:* +
+•	<<architecture-decision-record>> +
+•	
+
+|===

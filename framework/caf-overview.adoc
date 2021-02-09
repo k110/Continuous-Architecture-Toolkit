@@ -33,10 +33,3 @@ image::dual-business-technology.png[fig-dual-business-technology,200,200, align=
 
 bbb
 
-=== What is the structure of the framework?
-
-vvv
-
-=== How to use the framework?
-
-zzz
