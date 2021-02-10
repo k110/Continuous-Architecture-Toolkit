@@ -12,9 +12,10 @@
 [[Continuous-Architecture-Framework]]
 = Continuous Architecture Framework
 This work is licensed under Apache-2.0 and Creative Commons Attribution-ShareAlike 4.0.
+
 :toc: preamble
 
-include::caf-overview.adoc[]
+include::caf-overview.adoc[] 
 include::navigating-caf.adoc[]
 
 == Rituals
@@ -24,5 +25,10 @@ include::rituals/architectureKata.adoc[]
 == Practices
 
 include::practices/architectureDecisionRecords.adoc[]
+
+== Techniques
+
+include::techniques/jobs-to-be-done-analysis.adoc[]
+
 
 //end

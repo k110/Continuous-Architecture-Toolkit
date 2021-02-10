@@ -37,7 +37,7 @@ The <<tbl-navigator>> table contains hyperlinks to chapters and sections of the 
 
 .<|*Experience*
 .<|•	<<a>> +
-.<|•	<<b>> +
+.<|•	<<jtbd-analysis>> +
 .<|•	<<c>>
 
 .<|*Product*
@@ -76,12 +76,9 @@ The <<tbl-navigator>> table contains hyperlinks to chapters and sections of the 
 •	<<security>> +
 •	
 
-4+<.|*Rituals:* +
-•	<<architecture-kata>> +
-•	
-
-4+<.|*Practices:* +
+4+<.|*Cross-Cutting Rituals, Practices and Techniques:* +
 •	<<architecture-decision-record>> +
-•	
+•	<<architecture-kata>> +
+•		
 
 |===

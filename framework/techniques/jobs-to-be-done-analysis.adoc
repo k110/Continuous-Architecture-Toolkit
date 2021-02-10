@@ -1,0 +1,31 @@
+[[jtbd-analysis]]
+=== Jobs To Be Done Analysis
+//xref:jtbd[jtbd]
+
+//Settings:
+:icons: 
+:idprefix:
+:idseparator: -
+:preface-title: 
+:numbered!:
+:sectlinks:
+:sectanchors:
+:stylesdir: ./css
+:scriptsdir: ./js
+:imagesdir: ./img
+:sectnums:
+
+
+_By Frédéric Lé <fle@agileddd.com>._
+
+Jobs To Be Done analysis is a customer research technique that aims at understanding the goals that people want to accomplish under given circumstances. Jobs the motivators and drivers of behavior: they predict why people behave the way they do. 
+
+The figure <<fig-jtbd-template>> provide a structure way of documenting JTBD.
+
+
+[[fig-jtbd-template]]
+.Jobs To Be Done Documentation template
+image::jtbd-template.png[fig-jtbd-template,300,600, align="left"]
+
+
+//end
