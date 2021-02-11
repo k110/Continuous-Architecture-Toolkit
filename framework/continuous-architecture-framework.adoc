@@ -4,10 +4,9 @@
 :sectnums:
 :imagesdir: ./img
 :doctype: book
-// :toc: preamble
+:toc: preamble
 :reproducible:
 
-//:reproducible:
 
 [[Continuous-Architecture-Framework]]
 = Continuous Architecture Framework
